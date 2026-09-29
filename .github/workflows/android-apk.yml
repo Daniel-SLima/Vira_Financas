@@ -3,6 +3,7 @@ name: Android APK
 on:
   push:
     branches:
+      - main
       - develop
       - feature/finance-mvp
       - feature/vira-1-ui
