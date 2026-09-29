@@ -4,7 +4,7 @@
 
 **Finanças pessoais de forma simples, local e offline no Android.**
 
-[![Android APK](https://github.com/Daniel-SLima/Vira_Financas/actions/workflows/android-apk.yml/badge.svg?branch=feature%2Fvira-1-ui)](https://github.com/Daniel-SLima/Vira_Financas/actions/workflows/android-apk.yml)
+[![Android APK](https://github.com/Daniel-SLima/Vira_Financas/actions/workflows/android-apk.yml/badge.svg?branch=main)](https://github.com/Daniel-SLima/Vira_Financas/actions/workflows/android-apk.yml)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin&logoColor=white)
 ![Status](https://img.shields.io/badge/status-Alpha%2007-orange)
 
